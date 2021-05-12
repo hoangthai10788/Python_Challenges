@@ -25,6 +25,7 @@ Print the names of the two candidates who will advance to the runoff election.
 
 
 As an example, your analysis should look similar to the one below:
+
 Houston Mayoral Election Results
 -----------------------------------------
 Total Cast Votes: 241032
@@ -70,6 +71,7 @@ The greatest decrease in losses (date and amount) over the entire period
 
 
 As an example, your analysis should look similar to the one below:
+
 Financial Analysis
 ----------------------------
 Total Months: 86
